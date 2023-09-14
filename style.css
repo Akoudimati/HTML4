@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0e0e0; 
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1px
+
+}
+.heder1{
+
+margin-left: 400px;
+position: relative;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+h2 {
+    font-size: 24px;
+}
+
+.hh1  {
+    color: red;
+}
+
+.hh2 {
+    color: blue;
+}
+
+.hh3 {
+    color: green;
+}
+
+p {
+    color: #161313;
+}
